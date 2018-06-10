@@ -25,24 +25,28 @@ proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
 <h2>HTML</h2>
 <ul>
 	<li>Stands for <strong>Hyper Text Markup Language</strong></li>
-	<li>Lots of tags</li>
-	<ul>
-		<li>Boiler plate</li>
-		<ol>
-			<li>Doctype</li>
-			<li>HTML</li>
-			<li>Head</li>
+	<li>Lots of tags
+		<ul>
+			<li>Boilerplate
 				<ol>
-					<li>Title</li>
+					<li>Doctype</li>
+					<li>HTML</li>
+					<li>Head
+						<ol>
+							<li>Title</li>
+						</ol>
+					</li>
+					<li>Body</li>
 				</ol>
-			<li>Body</li>
-		</ol>
-		<li>Headings</li>
-		<li>Paragraph</li>
-		<li><em>em</em></li>
-		<li><strong>strong</strong></li>
-	</ul>
+			</li>
+			<li>Headings</li>
+			<li>Paragraph</li>
+			<li><em>em</em></li>
+			<li><strong>strong</strong></li>
+		</ul>
+	</li>
 </ul>
+<hr>
 <footer>Copyright by Ta4e (c)</footer>
 </body>
 </html>
