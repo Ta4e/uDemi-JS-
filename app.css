@@ -1,11 +1,13 @@
-<style type="text/css">
-	li {
-		color: green;
-	}
-	h1 {
-		color: red;
-	}
-	h4 {
-		color: purple;
-	}
-</style>
+h1 {
+	color: red;
+	border: 2px solid purple;
+}
+h4 {
+	background: red;
+}
+body {
+	background: pink;
+/*	background: url(https://wallup.net/wp-content/uploads/abstract/Abstract_Golden_Sunrise_Wallpaper_Desktop-748x421.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;*/
+}
